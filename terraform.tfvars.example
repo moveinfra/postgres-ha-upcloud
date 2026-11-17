@@ -1,0 +1,5 @@
+admin_ssh_key = "ssh-ed25519 AAAA... you@laptop"
+admin_cidr    = "203.0.113.7/32" # your own address: curl -4 ifconfig.me
+# zone                  = "de-fra1"
+# object_storage_region = "europe-2"
+# alert_webhook_url     = "https://ntfy.sh/your-private-topic"
